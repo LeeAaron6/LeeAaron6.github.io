@@ -1,4 +1,4 @@
-window.commentConfig = <%= theme.gitment%>"；
+
 var galTheme = {
 	render(state, instance) {
 		const container = document.createElement('div')
